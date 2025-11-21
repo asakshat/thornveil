@@ -30,11 +30,3 @@ make run
 make clean
 ```
 
-
-## Notes
-
-* The Makefile automatically detects Raylib using `pkg-config`.
-* You can extend the game by adding more `.cpp` and `.h` files in `src/` and including them in the Makefile.
-
-
----
