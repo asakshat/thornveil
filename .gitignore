@@ -1,0 +1,31 @@
+*.o
+*.obj
+*.exe
+*.out
+*.app
+*.so
+*.a
+
+thornveil
+
+# Build directories
+build/
+bin/
+dist/
+
+.DS_Store
+Thumbs.db
+
+*.vscode/
+*.idea/
+*.sublime-project
+*.sublime-workspace
+
+*~
+*.swp
+*.swo
+
+# Raylib specific
+*.dll       # if you have local DLLs for Windows cross-compiling
+*.dSYM/     # macOS debug symbols
+
